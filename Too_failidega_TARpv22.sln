@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Too_failidega_TARpv22", "Too_failidega_TARpv22.pyproj", "{3F4201F6-6289-43B8-8E77-4809A899BA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4201F6-6289-43B8-8E77-4809A899BA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4201F6-6289-43B8-8E77-4809A899BA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76076AAC-6B85-43F0-8050-BB3475A1AF86}
+	EndGlobalSection
+EndGlobal
