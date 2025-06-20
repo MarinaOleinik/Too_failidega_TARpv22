@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3f4201f6-6289-43b8-8e77-4809a899ba1a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Too_failidega_TARpv22.py</StartupFile>
+    <StartupFile>Kustutamine.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,11 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Kustutamine.py" />
     <Compile Include="OmaMoodul.py" />
     <Compile Include="Too_failidega_TARpv22.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Laused.txt" />
+    <Content Include="Loomad.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
